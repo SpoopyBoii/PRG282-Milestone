@@ -6,6 +6,8 @@ If you are reading this then you're either a potential employer of mine or a che
 
 This README will be split into two sections; Instructions on how to launch this thing and then some background on the work I, Lucien van Wyk, did in this miletstone project
 
+Original is listed at https://github.com/Tiaan-van-Staden/MilestonePRG282-class
+
 -------------------------
 1) Running the program:
 -------------------------
