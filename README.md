@@ -1,4 +1,5 @@
 # PRG282-Milestone
+-------------------------
 Programming 2nd Year Milestone at Belgium Campus.
 
 If you are reading this then you're either a potential employer of mine or a cheeky BC student trying to copy code.
@@ -17,9 +18,9 @@ The bak file should be opened in your SSMS
 
 
 
- 	
+------------------------- 	
 2) Behold, my stuff:
-	
+-------------------------	
 
 I personally created everything front-end related as well as adding the backbone of the back-end by adding comments to sections that indicated to my team where they could add appropriate code that matches to sections of the front end. This helped speed up the coding process as my team knew how which sections could corresponded to parts of the front-end and back-end
 
@@ -30,4 +31,4 @@ But to be spefic on a part that I did on my own would be the code that was able 
 If you look at the code itself the old pre-set images weren't captured correctly and thus didn't show in the database table... but if you scroll down and looked at the newer entries, or added your own entry through the program, you'd see the database is able to capture and display images. It would've been an easy fix but sadly we ran out of time (Deadlines can be cruel).
 
 I also did most of the code that queries the data from the sql database.
-	
+-------------------------	
