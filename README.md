@@ -5,9 +5,9 @@ If you are reading this then you're either a potential employer of mine or a che
 
 This README will be split into two sections; Instructions on how to launch this thing and then some background on the work I, Lucien van Wyk, did in this miletstone project
 
-
+-------------------------
 1) Running the program:
-
+-------------------------
 Run the bak file and/or the SQL file inside the folder 
 MilestonePRG282-class\PRG282_Project\Database
 in order to create the databse that's being used by the program. 
@@ -30,4 +30,4 @@ But to be spefic on a part that I did on my own would be the code that was able 
 If you look at the code itself the old pre-set images weren't captured correctly and thus didn't show in the database table... but if you scroll down and looked at the newer entries, or added your own entry through the program, you'd see the database is able to capture and display images. It would've been an easy fix but sadly we ran out of time (Deadlines can be cruel).
 
 I also did most of the code that queries the data from the sql database.
-==	
+	
